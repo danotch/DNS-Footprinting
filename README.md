@@ -1,1 +1,2 @@
 # DNS-Footprinting
+This lab has been an insightful experience in understanding DNS reconnaissance - a critical aspect of cybersecurity. I've detailed my process of using tools like nslookup and dig for extracting vital DNS information. The focus has been on different DNS record types and their importance in network security. I hope my documentation aids your learning and offers a practical perspective on conducting DNS footprinting effectively.
